@@ -1,6 +1,6 @@
 # Third-Party-Update-Alert
 Emails you when a new version of Java, Flash or iTunes is released.
-!(https://i.imgur.com/579IY8B.png)
+!([alt-text]https://i.imgur.com/579IY8B.png "Look at this!")
 ## Instructions
 - Add this script tp your Windows "Scheduled Tasks"
 - Run on daily or weekly basis
