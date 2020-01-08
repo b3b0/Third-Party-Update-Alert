@@ -1,3 +1,8 @@
+# The Unlicense
+# January 2020
+# b3b0
+# https://github.com/b3b0/checkPatch
+
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 $mainfolder = "C:\Users\$env:UserName\ThirdPartyCheck"
