@@ -9,4 +9,4 @@ Emails you when a new version of Java, Flash or iTunes is released.
 - Run 1 time to get latest patch info (you will be emailed about all three)
 - Enjoy!
 
-**Note:** *you must change the value in the iTUnes portion of the script after every update to iTunes)*
+**Note:** *you must change the value in the iTunes portion of the script after every update to iTunes)*
